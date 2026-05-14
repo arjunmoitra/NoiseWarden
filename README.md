@@ -1,2 +1,2 @@
 # NoiseWarden
-A web application that lets users upload audio files for analysis of sound levels against safety standards, integrated with geolocation.
+Web app that analyzes uploaded audio files against noise safety thresholds with geolocation tagging. Built with JavaScript.
