@@ -69,14 +69,6 @@ open index.html
 
 ---
 
-## What I learned
-
-- Working with the **Web Audio API** to programmatically decode and analyze audio buffers
-- Handling **async browser APIs** (file reader, geolocation) and managing their race conditions
-- Designing a clean **user authentication flow** without a backend framework
-- Structuring a vanilla JS project without letting it become unmaintainable
-
----
 
 ## Future improvements
 
@@ -85,4 +77,4 @@ open index.html
 - Comparison dashboard across multiple recordings and locations
 - Export analysis results as PDF or CSV
 
----
+
